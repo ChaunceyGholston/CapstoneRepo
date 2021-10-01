@@ -7,7 +7,7 @@ export default links => `
           el =>
             `<li><a href="/${el.title}" title="${el.title}" data-navigo >${el.title}</a></li>`
         )
-        .join("")}
+
     </ul>
   </nav>`;
 s
