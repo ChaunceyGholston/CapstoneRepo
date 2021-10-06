@@ -1,23 +1,24 @@
 h1{
-    box-sizing: border-box;
-    font-family:'Montserrat', sans-serif;
+  box-sizing: border-box;
+  font-family:'Montserrat', sans-serif;
+  padding:
 }
 .navbar {
-    text-align: center;
-    list-style: none;
-    padding: 5px;
-    box-sizing: auto;
-    flex-direction: row;
+  text-align: center;
+  list-style: none;
+  padding: 5px;
+  flex-direction: row;
+
 
 }
 h2{
-    font-family:'Montserrat', sans-serif
+  font-family:'Montserrat', sans-serif
 }
 body{
-    text-align: center;
-    margin:
+  text-align: center;
+  margin:
 }
 .img2{
-    width: 50em;
+  width: 50em;
 
 }
